@@ -1,2 +1,2 @@
-web: ./target/release/parity
+web: ./target/release/parity --ui-port $PORT
 
